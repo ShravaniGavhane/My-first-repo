@@ -1,4 +1,4 @@
 # My-first-repo
 To dive into GitHub world
 <br>
-Author : Shravani Gavhane
+Author : Shravani Gavhane (cs student)
